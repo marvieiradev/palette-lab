@@ -695,7 +695,7 @@ export default function Home() {
                         <Droplets size={16} />
                       </div>
                       <div>
-                        <strong>Color stories</strong>
+                        <strong>Histórico de cores</strong>
                         <small style={{ color: cardText }}>
                           Explore 12 novas paletas de cores
                         </small>
