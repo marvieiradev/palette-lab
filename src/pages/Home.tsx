@@ -559,7 +559,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="preview-wrap" id="preview">
+            <div className="panel preview-wrap" id="preview">
               <div className="preview-heading">
                 <div>
                   <span className="eyebrow">04 / PRÉVIA</span>

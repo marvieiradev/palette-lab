@@ -1038,7 +1038,6 @@ h1 span {
     justify-content: center;
     align-items: start;
     padding-top: 25px;
-    border: 1px solid #27272a;
     border-radius: 15px;
     overflow: hidden;
     background: radial-gradient(circle at 50% 28%, rgba(45, 212, 191, .08), transparent 18rem), #101014;
